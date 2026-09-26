@@ -7,9 +7,10 @@ At TU Delft, I've taken three specializations - Distributed Systems, Software En
 **[View my Portfolio](https://athxrva02.github.io/)**
 
 ### Interests
-Distributed and Backend Systems: Architecting scalable and robust fault-tolerant systems.
-Agentic Engineering: Tooling for leveraging agents and harness engineering for reliable behaviour.
-Academic Research: Explainable Software Engineering, Reinforcement Learning, Multi-Agent Systems.
+
+* **Distributed and Backend Systems**: Architecting scalable and robust fault-tolerant systems.
+* **Agentic Engineering**: Tooling for leveraging agents and harness engineering for reliable behaviour.
+* **Academic Research**: Explainable Software Engineering, Reinforcement Learning, Multi-Agent Systems.
 
 
 ### Connect
