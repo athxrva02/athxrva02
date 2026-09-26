@@ -1,8 +1,9 @@
 # Atharva Dagaonkar
 
-I am a Software Engineering Intern at Google based in Munich, Germany. My current work is on building a platform for large-scale automated migrations for migrating legacy C++ libraries to newer and safer Rust alternatives. I've previously worked on multi-agent systems at Rabobank and was a team lead and full-stack software engineer at ARRISE. My current research interests lie in the efficient use of agentic tools in large engineering teams. 
+I am a Software Engineering Intern at Google based in Munich, Germany. My current work is on building a platform for large-scale automated migrations of legacy C++ libraries to newer and safer Rust alternatives. I've previously worked on multi-agent systems at Rabobank and was a team lead and full-stack software engineer at ARRISE. My current research interests lie in the efficient use of agentic tools in large engineering teams. 
 
-At TU Delft, I've taken three specializations - Distributed Systems, Software Engineering and Machine Learning. I've taken various research coursework in the fields of Machine Learning for Software Engineering, NLP, Information Retrieval and Conversational Agents. I will be joining ING's R&D team as a Research Intern - conducting joint research with the Software Engineering Research Group for master thesis.
+
+At TU Delft, I've taken three specializations: Distributed Systems, Software Engineering and Machine Learning. I've undertaken various research coursework in the fields of Machine Learning for Software Engineering, Natural Language Processing, Information Retrieval and Conversational Agents. I will be joining ING's R&D team as a Research Intern to conduct joint research with the Software Engineering Research Group for my Master's thesis.
 
 **[View my Portfolio](https://athxrva02.github.io/)**
 
