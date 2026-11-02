@@ -1,9 +1,9 @@
 # Atharva Dagaonkar
 
-I am a Research Intern at ING based in Amsterdam, where I am also working on my master's thesis. I focus on how ING should redesign individual roles, team collaboration, and organisational arrangements to create sustainable value from AI agents, and what transformation roadmap is supported by the evidence. I was previously a Software Engineering Intern at Google based in Munich, Germany. My work was on building a platform for large-scale automated migrations of legacy C++ libraries to newer and safer Rust alternatives. I've previously worked on multi-agent systems at Rabobank and was a team lead and full-stack software engineer at ARRISE. My current research interests lie in the efficient use of agentic tools in large engineering teams. 
+I am a Research Intern at ING based in Amsterdam, where I am also working on my master's thesis along with the Software Engineering Research Group at TU Delft. I focus on how ING should redesign individual roles, team collaboration, and organisational arrangements to create sustainable value from AI agents, and what transformation roadmap is supported by the evidence. I was previously a Software Engineering Intern at Google based in Munich, Germany. My work was on building a platform for large-scale automated migrations of legacy C++ libraries to newer and safer Rust alternatives. I've previously worked on multi-agent systems at Rabobank and was a team lead and full-stack software engineer at ARRISE. My current research interests lie in the efficient use of agentic tools in large engineering teams. 
 
 
-At TU Delft, I've taken three specializations: Distributed Systems, Software Engineering and Machine Learning. I've undertaken various research coursework in the fields of Machine Learning for Software Engineering, Natural Language Processing, Information Retrieval and Conversational Agents. I will be joining ING's R&D team as a Research Intern to conduct joint research with the Software Engineering Research Group at TU Delft for my Master's thesis.
+At TU Delft, I've taken three specializations: Distributed Systems, Software Engineering and Machine Learning. I've undertaken various research coursework in the fields of Machine Learning for Software Engineering, Natural Language Processing, Information Retrieval and Conversational Agents.
 
 **[View my Portfolio](https://athxrva02.github.io/)**
 
@@ -11,7 +11,7 @@ At TU Delft, I've taken three specializations: Distributed Systems, Software Eng
 
 * **Distributed and Backend Systems**: Architecting scalable and robust fault-tolerant systems.
 * **Agentic Engineering**: Tooling for leveraging agents and harness engineering for reliable behaviour.
-* **Academic Research**: Explainable Software Engineering, Reinforcement Learning, Multi-Agent Systems.
+* **Academic Research**: Social Software Engineering, Reinforcement Learning, Multi-Agent Systems.
 
 
 ### Connect
